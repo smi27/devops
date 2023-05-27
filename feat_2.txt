@@ -1,1 +1,3 @@
 Feature 2 added by master branch
+
+some changes by dev in Feat2.
