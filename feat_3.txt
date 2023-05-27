@@ -1,1 +1,3 @@
-Added safe changesby dev.
+Added safe changes by dev.
+
+We want to merge dev branch into master.
