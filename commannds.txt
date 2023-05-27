@@ -1,0 +1,13 @@
+Git commands are-
+git init
+git add filename
+git commit -m "commit added"
+git status
+git log --oneline
+git diff
+git branch
+git remote -v
+git add origin url
+git push origin master
+git pull origin master
+git checkout branchname
